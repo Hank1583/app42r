@@ -8,7 +8,7 @@ workflows:
     environment:
       ios_signing:
         distribution_type: app_store
-        bundle_identifier: com.highlight.42r
+        bundle_identifier: com.highlight.app42r
       vars:
         APP_ID: 6751709306 # <-- Put your APP ID here
       flutter: stable
