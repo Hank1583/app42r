@@ -1,0 +1,3 @@
+cd D:\7.Highlight\1.Project\6.flutter\flutter_42r
+flutter build apk --release
+D:\7.Highlight\1.Project\6.flutter\flutter_42r\build\app\outputs\flutter-apk
