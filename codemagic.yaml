@@ -10,7 +10,7 @@ workflows:
         distribution_type: app_store
         bundle_identifier: com.highlight.app42r
       vars:
-        APP_ID: 6751709306 # <-- Put your APP ID here
+        APP_ID: 6751710182 # <-- Put your APP ID here
       flutter: stable
       xcode: latest # <-- set to specific version e.g. 14.3, 15.0 to avoid unexpected updates.
       cocoapods: default
